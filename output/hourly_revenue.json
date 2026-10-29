@@ -1,0 +1,26 @@
+{
+  "2026-10-15 07:00":{
+    "Cappuccino":859.75,
+    "Croissant":801.3,
+    "Espresso":694.09,
+    "Latte":1117.78,
+    "Muffin":981.66,
+    "Sandwich":1330.27
+  },
+  "2026-10-15 08:00":{
+    "Cappuccino":1046.49,
+    "Croissant":790.82,
+    "Espresso":818.15,
+    "Latte":695.19,
+    "Muffin":743.11,
+    "Sandwich":1997.28
+  },
+  "2026-10-15 09:00":{
+    "Cappuccino":148.91,
+    "Croissant":61.62,
+    "Espresso":49.29,
+    "Latte":189.14,
+    "Muffin":97.95,
+    "Sandwich":233.72
+  }
+}
